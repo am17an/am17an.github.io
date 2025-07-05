@@ -5,16 +5,8 @@ title = 'Hello World'
 tags = ['tech', 'blog']
 +++
 
-# Welcome to My Tech Blog
+# Writing again
 
-This is my first post on this minimalist tech blog built with Hugo and the Typo theme. I'll be sharing thoughts on technology, programming, and other interesting topics.
-
-## Features
-
-- Clean, minimal design
-- Fast loading times
-- Responsive layout
-- Code syntax highlighting
-- GitHub Pages deployment
+$e^{i\pi} + 1 = 0$
 
 Stay tuned for more content!
