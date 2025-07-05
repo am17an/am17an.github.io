@@ -6,6 +6,7 @@ theme = 'typo'
 [params]
   author = 'Aman Gupta'
   description = 'Thoughts I managed to write down.'
+  math = true
   
 [markup]
   [markup.highlight]
