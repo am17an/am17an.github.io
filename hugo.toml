@@ -1,0 +1,13 @@
+baseURL = 'https://am17an.github.io/'
+languageCode = 'en-us'
+title = 'Aman Gupta'
+theme = 'typo'
+
+[params]
+  author = 'Aman Gupta'
+  description = 'Thoughts I managed to write down.'
+  
+[markup]
+  [markup.highlight]
+    style = 'github'
+    lineNos = true
