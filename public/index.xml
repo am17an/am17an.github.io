@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aman Gupta</title>
-    <link>http://localhost:1313/</link>
+    <link>https://am17an.github.io/</link>
     <description>Recent content on Aman Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Jul 2025 01:20:40 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://am17an.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://am17an.github.io/posts/hello-world/</link>
       <pubDate>Sun, 06 Jul 2025 01:20:40 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://am17an.github.io/posts/hello-world/</guid>
       <description>Writing again $e^{i\pi} + 1 = 0$</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/manifest.json</link>
+      <link>https://am17an.github.io/manifest.json</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manifest.json</guid>
+      <guid>https://am17an.github.io/manifest.json</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.de/</link>
+      <link>https://am17an.github.io/search/_index.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.de/</guid>
+      <guid>https://am17an.github.io/search/_index.de/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.es/</link>
+      <link>https://am17an.github.io/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.es/</guid>
+      <guid>https://am17an.github.io/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.fr/</link>
+      <link>https://am17an.github.io/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.fr/</guid>
+      <guid>https://am17an.github.io/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.hi/</link>
+      <link>https://am17an.github.io/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.hi/</guid>
+      <guid>https://am17an.github.io/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.jp/</link>
+      <link>https://am17an.github.io/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.jp/</guid>
+      <guid>https://am17an.github.io/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.nl/</link>
+      <link>https://am17an.github.io/search/_index.nl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.nl/</guid>
+      <guid>https://am17an.github.io/search/_index.nl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.pl/</link>
+      <link>https://am17an.github.io/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.pl/</guid>
+      <guid>https://am17an.github.io/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.ru/</link>
+      <link>https://am17an.github.io/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.ru/</guid>
+      <guid>https://am17an.github.io/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.zh-cn/</link>
+      <link>https://am17an.github.io/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.zh-cn/</guid>
+      <guid>https://am17an.github.io/search/_index.zh-cn/</guid>
       <description></description>
     </item>
     <item>
       <title>Aman Gupta</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://am17an.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://am17an.github.io/about/</guid>
       <description>I&amp;rsquo;m a software developer, primarily interested in C++, performance engineering and quantative trading. At the moment I&amp;rsquo;m on a non-compete from my previous employer and currently immersed in learning about LLMs.&#xA;I&amp;rsquo;ve spent most of my career in the trading industry as Quant developer, and sometimes C++ and FPGA developer. In my spare time I play the guitar and look at my phone.&#xA;You can find me on Github ^This gif from my tumblr , something I experimented with a long time ago </description>
     </item>
   </channel>

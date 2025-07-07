@@ -2,55 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://am17an.github.io/</loc>
     <lastmod>2025-07-06T01:20:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://am17an.github.io/posts/hello-world/</loc>
     <lastmod>2025-07-06T01:20:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://am17an.github.io/posts/</loc>
     <lastmod>2025-07-06T01:20:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manifest.json</loc>
+    <loc>https://am17an.github.io/manifest.json</loc>
   </url><url>
-    <loc>http://localhost:1313/search/_index.de/</loc>
+    <loc>https://am17an.github.io/search/_index.de/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://am17an.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.es/</loc>
+    <loc>https://am17an.github.io/search/_index.es/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.fr/</loc>
+    <loc>https://am17an.github.io/search/_index.fr/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.hi/</loc>
+    <loc>https://am17an.github.io/search/_index.hi/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.jp/</loc>
+    <loc>https://am17an.github.io/search/_index.jp/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.nl/</loc>
+    <loc>https://am17an.github.io/search/_index.nl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.pl/</loc>
+    <loc>https://am17an.github.io/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.ru/</loc>
+    <loc>https://am17an.github.io/search/_index.ru/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/_index.zh-cn/</loc>
+    <loc>https://am17an.github.io/search/_index.zh-cn/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://am17an.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://am17an.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+    <loc>https://am17an.github.io/tags/</loc>
   </url>
 </urlset>
