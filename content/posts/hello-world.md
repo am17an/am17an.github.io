@@ -2,6 +2,7 @@
 date = '2025-07-06T01:20:40+08:00'
 draft = false
 title = 'Hello World'
+math = true
 +++
 
 # Writing again
